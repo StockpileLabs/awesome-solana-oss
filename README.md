@@ -35,5 +35,5 @@ This list serves a place to get a gauge of the Solana open-source ecosystem, fin
 | Solana Auth           | [Crossmint](https://twitter.com/crossmint)                    | Authentication, Infrastructure        | No                   | <https://github.com/Crossmint/solana-auth>               |
 | Nautilus              | [Buffalo Joe](https://twitter.com/realbuffalojoe)             | Dev Tooling, Framework                | No                   | <https://github.com/nautilus-project/nautilus>           |
 | Space Wrapper         | [Space Operator](https://twitter.com/_space_operator)         | Authentication, Infrastructure        | No                   | <https://github.com/space-operator/space-wrapper>        |
-| Skeet                 | [Skeet](https://twitter.com/SkeetDev)                         | Dev Tooling, Framework                | Yes                  | <https://github.com/elsoul/skeet-cli>                    |
-| solv                  | [solv](https://twitter.com/EpicsDAO2)                         | Validator Tooling                     | Yes                  | <https://github.com/EpicsDAO/solv>                       |
+| Skeet                 | [Skeet Dev](https://twitter.com/SkeetDev)                     | Dev Tooling, Framework                | Yes                  | <https://github.com/elsoul/skeet-cli>                    |
+| solv                  | [Epics DAO](https://twitter.com/EpicsDAO2)                    | Validator Tooling                     | Yes                  | <https://github.com/EpicsDAO/solv>                       |
