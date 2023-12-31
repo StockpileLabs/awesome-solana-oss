@@ -1,4 +1,4 @@
-# awesome-solana-oss
+# 🚀 Awesome Solana (Open-Source Edition)
 *Compilation of awesome open-source Solana repositories on Github!*
 
 This list serves a place to get a gauge of the Solana open-source ecosystem, find potential projects to contribute to, and discover code to learn from. Repositories on this list must have a valid license (GPL 3.0, Apache 2.0, etc..).
