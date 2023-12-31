@@ -8,15 +8,28 @@ Name | Team / Dev | Category | Actively Maintained? | Link
 Stockpile v2 | [Stockpile Labs](https://twitter.com/GoStockpile) | Consumer, DeFi, Payments | Yes | <https://github.com/StockpileLabs/stockpile-v2>
 Backpack | [Coral](https://twitter.com/xNFT_Backpack) | Wallet, Infrastructure | Yes | <https://github.com/coral-xyz/backpack>
 Solana Wallet Adapter | [Solana Labs](https://twitter.com/solana) | Dev Tooling | Yes | <https://github.com/solana-labs/wallet-adapter>
-Squads MPL | [Squads](https://twitter.com/squads) | Multisig, Dev Tooling, Infrastructure | Yes | <https://github.com/Squads-Protocol/squads-mpl>
+Squads MPL | [Squads](https://twitter.com/squadsprotocol) | Multisig, Dev Tooling, Infrastructure | Yes | <https://github.com/Squads-Protocol/squads-mpl>
 Anchor | [Coral](https://twitter.com/xNFT_Backpack) | Dev Tooling, Framework | Yes | <https://github.com/coral-xyz/anchor>
 TinyDancer | [TinyDancer](https://twitter.com/tinydancerio) | Infrastructure | Yes | <https://github.com/tinydancer-io/tinydancer>
+Elusiv | [Elusiv](https://twitter.com/elusivprivacy) | Privacy, Infrastructure | Yes | <https://github.com/elusiv-privacy/elusiv>
+Bubblegum | [Metaplex](https://twitter.com/metaplex) | NFT, Dev Tooling | Yes | <https://github.com/metaplex-foundation/mpl-bubblegum>
+Umi | [Metaplex](https://twitter.com/metaplex) | Dev Tooling | Yes | <https://github.com/metaplex-foundation/umi>
+Kinobi | [Metaplex](https://twitter.com/metaplex) | Dev Tooling | Yes | <https://github.com/metaplex-foundation/kinobi>
+Pyre | [Helius](https://twitter.com/heliuslabs) | Education | Yes | <https://github.com/helius-labs/pyre>
+Xray | [Helius](https://twitter.com/heliuslabs) | Explorer | Yes | <https://github.com/helius-labs/xray>
 Shank | [Metaplex](https://twitter.com/metaplex) | Dev Tooling | Yes | <https://github.com/metaplex-foundation/shank>
 Solita | [Metaplex](https://twitter.com/metaplex) | Dev Tooling | Yes | <https://github.com/metaplex-foundation/solita>
+Blockbuster | [Metaplex](https://twitter.com/metaplex) | Infrastructure | Yes | <https://github.com/metaplex-foundation/blockbuster>
+Lite RPC | [Blockworks](https://twitter.com/blockworks_) | Infrastructure | Yes | <https://github.com/blockworks-foundation/lite-rpc>
+Squads CLI | [Squads](https://twitter.com/squadsprotocol) | Multisig, Dev Tooling | Yes | <https://github.com/Squads-Protocol/squads-cli>
 AnchorPy | [Kevin Heavey](https://twitter.com/metaplex) | Dev Tooling | No | <https://github.com/kevinheavey/anchorpy>
-Soda | [Web3 Builders Alliance](https://twitter.com/comebuidlwithus) | Dev Tooling, Infrastructure | Yes | <https://github.com/UnderdogProtocol/js>
+Inscription | [Metaplex](https://twitter.com/metaplex) | NFT, Dev Tooling | Yes | <https://github.com/metaplex-foundation/mpl-inscription>
+Metaboss | [Metafrost](https://github.com/samuelvanderwaal/metaboss) | Dev Tooling | Yes | <https://github.com/samuelvanderwaal/metaboss>
+Soda | [Web3 Builders Alliance](https://twitter.com/comebuidlwithus) | Dev Tooling, Infrastructure | Yes | <https://github.com/Web3-Builders-Alliance/soda>
 Sol4k | [Sasha Shpota](https://twitter.com/sashashpota) | Dev Tooling | Yes | <https://github.com/sol4k/sol4k>
+Arsnal | [Anish De](https://twitter.com/anishde10) | Dev Tooling | Yes | <https://github.com/AnishDe12020/arsnal>
 Solnet | [Block Mountain](https://twitter.com/blockmountainio) | Dev Tooling | Yes | <https://github.com/bmresearch/Solnet>
+Solathon | [SuperteamDAO](https://twitter.com/superteamdao) | Dev Tooling | Yes | <https://github.com/SuperteamDAO/solathon>
 Underdog SDK | [Underdog](https://twitter.com/backanunderdog) | NFT, Infrastructure | No | <https://github.com/UnderdogProtocol/js>
 Solana Auth | [Crossmint](https://twitter.com/crossmint) | Authentication, Infrastructure | No | <https://github.com/Crossmint/solana-auth>
 Nautilus | [Buffalo Joe](https://twitter.com/realbuffalojoe) | Dev Tooling, Framework | No | <https://github.com/nautilus-project/nautilus>
