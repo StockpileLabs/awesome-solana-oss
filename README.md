@@ -2,7 +2,7 @@
 
 _Compilation of awesome open-source Solana repositories on Github!_
 
-This list serves a place to get a gauge of the Solana open-source ecosystem, find potential projects to contribute to, and discover code to learn from. Repositories on this list must have a valid license (GPL 3.0, Apache 2.0, etc..).
+This list serves a place to get a gauge of the Solana open-source ecosystem, find potential projects to contribute to, and discover code to learn from. Repositories on this list must have a valid license (MIT, GPL 3.0, Apache 2.0, etc..).
 
 | Name                  | Team / Dev                                                    | Category                              | Actively Maintained? | Link                                                     |
 | --------------------- | ------------------------------------------------------------- | ------------------------------------- | -------------------- | -------------------------------------------------------- |
