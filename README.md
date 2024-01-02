@@ -14,6 +14,8 @@ This list serves a place to get a gauge of the Solana open-source ecosystem, fin
 | TinyDancer            | [TinyDancer](https://twitter.com/tinydancerio)                | Infrastructure                        | Yes                  | <https://github.com/tinydancer-io/tinydancer>            |
 | Elusiv                | [Elusiv](https://twitter.com/elusivprivacy)                   | Privacy, Infrastructure               | Yes                  | <https://github.com/elusiv-privacy/elusiv>               |
 | Bubblegum             | [Metaplex](https://twitter.com/metaplex)                      | NFT, Dev Tooling                      | Yes                  | <https://github.com/metaplex-foundation/mpl-bubblegum>   |
+| Openbook v2           | [Openbook](https://twitter.com/openbookdex)                   | DeFi                                  | Yes                  | <https://github.com/openbook-dex/openbook-v2>            |
+| Phoenix v1            | [Ellipsis Labs](https://twitter.com/ellipsis_labs)            | DeFi                                  | Yes                  | <https://github.com/Ellipsis-Labs/phoenix-v1>            |
 | Solend Programs       | [Solend](https://twitter.com/solendprotocol)                  | DeFi                                  | Yes                  | <https://github.com/solendprotocol/solana-program-library>|
 | Mango v4              | [Mango Markets](https://twitter.com/mangomarkets)             | DeFi                                  | Yes                  | <https://github.com/blockworks-foundation/mango-v4>      |
 | Mango v4 UI           | [Mango Markets](https://twitter.com/mangomarkets)             | DeFi                                  | Yes                  | <https://github.com/blockworks-foundation/mango-v4-ui>   |
@@ -21,6 +23,9 @@ This list serves a place to get a gauge of the Solana open-source ecosystem, fin
 | MarginFi v2           | [MrgnLabs](https://twitter.com/marginfi)                      | DeFi                                  | Yes                  | <https://github.com/mrgnlabs/marginfi-v2>                |
 | Mrgn TS               | [MrgnLabs](https://twitter.com/marginfi)                      | DeFi                                  | Yes                  | <https://github.com/mrgnlabs/mrgn-ts>                    |
 | Raydium UI            | [Raydium](https://twitter.com/raydiumprotocol)                | DeFi                                  | Yes                  | <https://github.com/raydium-io/raydium-frontend>         |
+| Whirlpools CLMM       | [Orca_so](https://twitter.com/orca_so)                        | DeFi                                  | Yes                  | <https://github.com/orca-so/whirlpools>                  |
+| Raydium CLMM          | [Raydium](https://twitter.com/RaydiumProtocol)                | DeFi                                  | Yes                  | <https://github.com/raydium-io/raydium-clmm>             |
+| Saber                 | [Saber DAO](https://twitter.com/The_Saber_DAO)                | DeFi                                  | Yes                  | <https://github.com/saber-hq/stable-swap>                |
 | Jito Solana           | [MrgnLabs](https://twitter.com/jito_sol)                      | Infrastructure                        | Yes                  | <https://github.com/jito-foundation/jito-solana>         |
 | Jito Relayer          | [MrgnLabs](https://twitter.com/jito_sol)                      | Infrastructure                        | Yes                  | <https://github.com/jito-foundation/jito-relayer>        |
 | Distributor           | [MrgnLabs](https://twitter.com/jito_sol)                      | Dev Tooling                           | Yes                  | <https://github.com/jito-foundation/distributor>         |
@@ -54,7 +59,3 @@ This list serves a place to get a gauge of the Solana open-source ecosystem, fin
 | Solana Auth           | [Crossmint](https://twitter.com/crossmint)                    | Authentication, Infrastructure        | No                   | <https://github.com/Crossmint/solana-auth>               |
 | Nautilus              | [Buffalo Joe](https://twitter.com/realbuffalojoe)             | Dev Tooling, Framework                | No                   | <https://github.com/nautilus-project/nautilus>           |
 | Space Wrapper         | [Space Operator](https://twitter.com/_space_operator)         | Authentication, Infrastructure        | No                   | <https://github.com/space-operator/space-wrapper>        |
-| Whirlpools CLMM       | [Orca_so](https://twitter.com/orca_so)         | DeFi        | Yes                   | <https://github.com/orca-so/whirlpools>        |
-| Raydium CLMM       | [Raydium Protocol](https://twitter.com/RaydiumProtocol)         | DeFi        | Yes                   | <https://github.com/raydium-io/raydium-clmm>        |
-| Saber       | [Saber DAO](https://twitter.com/The_Saber_DAO)         | DeFi        | Yes                   | <https://github.com/saber-hq/stable-swap>        |
-
