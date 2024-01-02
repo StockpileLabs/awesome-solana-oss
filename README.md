@@ -41,6 +41,7 @@ This list serves a place to get a gauge of the Solana open-source ecosystem, fin
 | Squads CLI            | [Squads](https://twitter.com/squadsprotocol)                  | Multisig, Dev Tooling                 | Yes                  | <https://github.com/Squads-Protocol/squads-cli>          |
 | AnchorPy              | [Kevin Heavey](https://twitter.com/metaplex)                  | Dev Tooling                           | No                   | <https://github.com/kevinheavey/anchorpy>                |
 | Inscription           | [Metaplex](https://twitter.com/metaplex)                      | NFT, Dev Tooling                      | Yes                  | <https://github.com/metaplex-foundation/mpl-inscription> |
+| BYO Mint              | [0xLarry](https://twitter.com/0xLarry8)                       | NFT, Dev Tooling                      | Yes                  | <https://github.com/0xlarry/byo_mint>                    |
 | Metaboss              | [Metafrost](https://github.com/samuelvanderwaal/metaboss)     | Dev Tooling                           | Yes                  | <https://github.com/samuelvanderwaal/metaboss>           |
 | Soda                  | [Web3 Builders Alliance](https://twitter.com/comebuidlwithus) | Dev Tooling, Infrastructure           | Yes                  | <https://github.com/Web3-Builders-Alliance/soda>         |
 | Sol4k                 | [Sasha Shpota](https://twitter.com/sashashpota)               | Dev Tooling                           | Yes                  | <https://github.com/sol4k/sol4k>                         |
