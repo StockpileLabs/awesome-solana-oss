@@ -60,3 +60,5 @@ This list serves a place to get a gauge of the Solana open-source ecosystem, fin
 | Solana Auth           | [Crossmint](https://twitter.com/crossmint)                    | Authentication, Infrastructure        | No                   | <https://github.com/Crossmint/solana-auth>               |
 | Nautilus              | [Buffalo Joe](https://twitter.com/realbuffalojoe)             | Dev Tooling, Framework                | No                   | <https://github.com/nautilus-project/nautilus>           |
 | Space Wrapper         | [Space Operator](https://twitter.com/_space_operator)         | Authentication, Infrastructure        | No                   | <https://github.com/space-operator/space-wrapper>        |
+| Spiral Safe           | [Spiral Safe](https://twitter.com/spiralsafe)                 | Authentication, Infrastructure        | Yes                  | <https://github.com/Spiral-Safe>                         |
+| Designity Growth      | [Spiral Safe](https://twitter.com/DesignityCom)               | Performance review protocol           | Yes                  | <https://github.com/designitycom/solana-contract>        |
