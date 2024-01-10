@@ -73,3 +73,4 @@ This list serves as a place to get a gauge of the Solana open-source ecosystem, 
 | Designity Growth       | [Spiral Safe](https://twitter.com/DesignityCom)               | Performance review protocol           | Yes                  | <https://github.com/designitycom/solana-contract>                |
 | Create-Solana-Dapp     | [Solana Developers](https://twitter.com/solana_devs)          | Dev Tooling                           | Yes                  | <https://github.com/solana-developers/create-solana-dapp>        |
 | SOLfees.fyi            | [Ronny Haase](https://twitter.com/ronnyhaase)                 | Wallet                                | Yes                  | <https://github.com/ronnyhaase/solfees.fyi>                      |
+| Yellowstone gRPC  | [Triton One](https://triton.one) | RPC, DeFi | Yes | <https://github.com/rpcpool>
