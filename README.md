@@ -2,7 +2,7 @@
 
 _Compilation of awesome open-source Solana repositories on Github!_
 
-This list serves a place to get a gauge of the Solana open-source ecosystem, find potential projects to contribute to, and discover code to learn from. Repositories on this list must have a valid license (MIT, GPL 3.0, Apache 2.0, etc..).
+This list serves as a place to get a gauge of the Solana open-source ecosystem, find potential projects to contribute to and discover code to learn from. Repositories on this list must have a valid license (MIT, GPL 3.0, Apache 2.0, etc..).
 
 | Name                   | Team / Dev                                                    | Category                              | Actively Maintained? | Link                                                             |
 | ---------------------- | ------------------------------------------------------------- | ------------------------------------- | -------------------- | ---------------------------------------------------------------- |
@@ -13,6 +13,8 @@ This list serves a place to get a gauge of the Solana open-source ecosystem, fin
 | Anchor                 | [Coral](https://twitter.com/xNFT_Backpack)                    | Dev Tooling, Framework                | Yes                  | <https://github.com/coral-xyz/anchor>                            |
 | TinyDancer             | [TinyDancer](https://twitter.com/tinydancerio)                | Infrastructure                        | Yes                  | <https://github.com/tinydancer-io/tinydancer>                    |
 | Elusiv                 | [Elusiv](https://twitter.com/elusivprivacy)                   | Privacy, Infrastructure               | Yes                  | <https://github.com/elusiv-privacy/elusiv>                       |
+| Code Program Library   | [GetCode](https://twitter.com/getcode)                        | Payments                              | Yes                  | <https://github.com/code-payments/code-program-library>          |
+| Code Android App       | [GetCode](https://twitter.com/getcode)                        | Payments, Mobile                      | Yes                  | <https://github.com/code-payments/code-android-app>              |
 | Bubblegum              | [Metaplex](https://twitter.com/metaplex)                      | NFT, Dev Tooling                      | Yes                  | <https://github.com/metaplex-foundation/mpl-bubblegum>           |
 | Solana Playground      | [Solana Playground](https://github.com/solana-playground)     | Dev Tooling                           | Yes                  | <https://github.com/solana-playground/solana-playground>         |
 | Openbook v2            | [Openbook](https://twitter.com/openbookdex)                   | DeFi                                  | Yes                  | <https://github.com/openbook-dex/openbook-v2>                    |
@@ -21,6 +23,7 @@ This list serves a place to get a gauge of the Solana open-source ecosystem, fin
 | Mango v4               | [Mango Markets](https://twitter.com/mangomarkets)             | DeFi                                  | Yes                  | <https://github.com/blockworks-foundation/mango-v4>              |
 | Mango v4 UI            | [Mango Markets](https://twitter.com/mangomarkets)             | DeFi                                  | Yes                  | <https://github.com/blockworks-foundation/mango-v4-ui>           |
 | Mango Feeds            | [Mango Markets](https://twitter.com/mangomarkets)             | DeFi                                  | Yes                  | <https://github.com/blockworks-foundation/mango-feeds>           |
+| Kamino Lend            | [Hubble Protocol](https://twitter.com/Kamino_Finance)         | DeFi                                  | Yes                  | <https://github.com/Kamino-Finance/klend>                        |
 | MarginFi v2            | [MrgnLabs](https://twitter.com/marginfi)                      | DeFi                                  | Yes                  | <https://github.com/mrgnlabs/marginfi-v2>                        |
 | Mrgn TS                | [MrgnLabs](https://twitter.com/marginfi)                      | DeFi                                  | Yes                  | <https://github.com/mrgnlabs/mrgn-ts>                            |
 | Raydium UI             | [Raydium](https://twitter.com/raydiumprotocol)                | DeFi                                  | Yes                  | <https://github.com/raydium-io/raydium-frontend>                 |
@@ -31,7 +34,9 @@ This list serves a place to get a gauge of the Solana open-source ecosystem, fin
 | Jito Relayer           | [Jito Labs](https://twitter.com/jito_sol)                     | Infrastructure                        | Yes                  | <https://github.com/jito-foundation/jito-relayer>                |
 | PubKey Link            | [Beeman](https://twitter.com/beeman_nl)                       | Discord Bot                           | Yes                  | <https://github.com/pubkeyapp/pubkey-link>                       |
 | PubKey Stack           | [Beeman](https://twitter.com/beeman_nl)                       | Starter, Dev Tooling                  | Yes                  | <https://github.com/pubkeyapp/pubkey-stack>                      |
-| Distributor            | [MrgnLabs](https://twitter.com/jito_sol)                      | Dev Tooling                           | Yes                  | <https://github.com/jito-foundation/distributor>                 |
+| Lighthouse             | [Jac0xb](https://twitter.com/jacobdotsol)                     | Dev Tooling, Safety                   | Yes                  | <https://github.com/Jac0xb/lighthouse>                           |
+| Explorer Kit           | [SolanaFM](https://twitter.com/solanafm)                      | Dev Tooling, Infrastructure           | Yes                  | <https://github.com/solana-fm/explorer-kit>                      |
+| Distributor            | [Jito Labs](https://twitter.com/jito_sol)                     | Dev Tooling                           | Yes                  | <https://github.com/jito-foundation/distributor>                 |
 | Umi                    | [Metaplex](https://twitter.com/metaplex)                      | Dev Tooling                           | Yes                  | <https://github.com/metaplex-foundation/umi>                     |
 | Kinobi                 | [Metaplex](https://twitter.com/metaplex)                      | Dev Tooling                           | Yes                  | <https://github.com/metaplex-foundation/kinobi>                  |
 | Pyre                   | [Helius](https://twitter.com/heliuslabs)                      | Education                             | Yes                  | <https://github.com/helius-labs/pyre>                            |
@@ -56,6 +61,7 @@ This list serves a place to get a gauge of the Solana open-source ecosystem, fin
 | Builderz dApp Scaffold | [Builderz](https://twitter.com/builderz__)                    | Dev Tooling, Starter                  | Yes                  | <https://github.com/builderz-labs/builderz-solana-dapp-scaffold> |
 | Builderz xNFT Scaffold | [Builderz](https://twitter.com/builderz__)                    | Dev Tooling, Starter                  | Yes                  | <https://github.com/builderz-labs/builderz-xNFT-scaffold-next>   |
 | solv                   | [Epics DAO](https://twitter.com/EpicsDAO2)                    | Validator Tooling                     | Yes                  | <https://github.com/EpicsDAO/solv>                               |
+| Solana Wallet Names    | [Portal Payments](https://twitter.com/portalpayments)         | Dev Tooling, Domains                  | No                   | <https://github.com/portalpayments/solana-wallet-names>          |
 | Jet v2                 | [Jet Labs](https://twitter.com/jetprotocol)                   | DeFi                                  | No                   | <https://github.com/jet-lab/jet-v2>                              |
 | Jet v1                 | [Jet Labs](https://twitter.com/jetprotocol)                   | DeFi                                  | No                   | <https://github.com/jet-lab/jet-v1>                              |
 | Jet Governance         | [Jet Labs](https://twitter.com/jetprotocol)                   | DeFi                                  | No                   | <https://github.com/jet-lab/jet-governance>                      |
