@@ -76,3 +76,4 @@ This list serves as a place to get a gauge of the Solana open-source ecosystem, 
 | Yellowstone gRPC       | [Triton One](https://triton.one)                              | RPC, DeFi                             | Yes                  | <https://github.com/rpcpool>                                     |
 | Jito Stakenet          | [Jito Labs](https://twitter.com/jito_sol)                     | DeFi                                  | Yes                  | <https://github.com/jito-foundation/stakenet>                    |
 | Light Protocol         | [Light Protocol](https://twitter.com/jito_sol)                | Privacy, Infrastructure               | Yes                  | <https://github.com/Lightprotocol/light-protocol>                |
+| Step Staking           | [Step Finance](https://twitter.com/StepFinance_)              | DeFi                                  | No                   | <https://github.com/step-finance/reward-pool>                    |
