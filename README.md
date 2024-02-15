@@ -79,3 +79,5 @@ This list serves as a place to get a gauge of the Solana open-source ecosystem, 
 | Step Reward Pool       | [Step Finance](https://twitter.com/StepFinance_)              | DeFi                                  | Yes                  | <https://github.com/step-finance/step-staking>                   |
 | Step Staking           | [Step Finance](https://twitter.com/StepFinance_)              | DeFi                                  | No                   | <https://github.com/step-finance/reward-pool>                    |
 | McBurnJS               | [McDegensDAO](https://twitter.com/McDegensDAO)                | NFT                                   | Yes                  | <https://github.com/McDegens-DAO/mcburn-js/>                     |
+| cNFT Spam Filter       | [Solarnius](https://twitter.com/solarnius)                    | NFT, Infrastructure                   | Yes                  | <https://github.com/filtoor/cnft-spam-filter>                    |
+
