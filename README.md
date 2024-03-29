@@ -81,3 +81,4 @@ This list serves as a place to get a gauge of the Solana open-source ecosystem, 
 | McBurnJS               | [McDegensDAO](https://twitter.com/McDegensDAO)                | NFT                                   | Yes                  | <https://github.com/McDegens-DAO/mcburn-js/>                     |
 | cNFT Spam Filter       | [Solarnius](https://twitter.com/solarnius)                    | NFT, Infrastructure                   | Yes                  | <https://github.com/filtoor/cnft-spam-filter>                    |
 | sol CLI Explorer       | [cavemanloverboy](https://github.com/cavemanloverboy)         | Explorer                              | Yes                  | <https://github.com/cavemanloverboy/sol>                         |
+| Turnkey Client         | [Eliascm17](https://github.com/Eliascm17)                     | Dev Tooling                           | Yes                  | <https://github.com/Eliascm17/turnkey>                           |
