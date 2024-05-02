@@ -1,8 +1,14 @@
 # 🚀 Awesome Solana (Open-Source Edition)
+[![Awesome](https://i.imgur.com/fZVEgpL.png)](https://github.com/sindresorhus/awesome)
 
-_Compilation of awesome open-source Solana repositories on Github!_
+_A curated compilation of awesome open-source Solana repositories on Github._
 
-This list serves as a place to get a gauge of the Solana open-source ecosystem, find potential projects to contribute to and discover code to learn from. Repositories on this list must have a valid license (MIT, GPL 3.0, Apache 2.0, etc..).
+This repo is for:
+- Discovering code to learn from
+- Finding ecosystem projects to contribute to 
+- Getting a gauge of the Solana open-source ecosystem
+
+Submit a PR if you have a suggested add! Repositories on this list must have a valid license (MIT, GPL 3.0, Apache 2.0, etc..).
 
 | Name                   | Team / Dev                                                    | Category                              | Actively Maintained? | Link                                                             |
 | ---------------------- | ------------------------------------------------------------- | ------------------------------------- | -------------------- | ---------------------------------------------------------------- |
