@@ -89,3 +89,5 @@ Submit a PR if you have a suggested add! Repositories on this list must have a v
 | sol CLI Explorer       | [cavemanloverboy](https://github.com/cavemanloverboy)         | Explorer                              | Yes                  | <https://github.com/cavemanloverboy/sol>                         |
 | Turnkey Client         | [Eliascm17](https://github.com/Eliascm17)                     | Dev Tooling                           | Yes                  | <https://github.com/Eliascm17/turnkey>                           |
 | LiteSVM       | [Aursen](https://github.com/Aursen), [Kevin Heavey](https://github.com/kevinheavey)                     | Dev Tooling                           | Yes                  | <https://github.com/LiteSVM/litesvm>                           |
+| Zircon       | [Joey Meere](https://github.com/joeymeere)                 | Education                          | Yes                  | <https://github.com/joeymeere/zircon>      |
+| Dreamcast       | [Joey Meere](https://github.com/joeymeere)                 | Dev Tooling                          | Yes                  | <https://github.com/joeymeere/dreamcast>      |
