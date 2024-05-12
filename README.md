@@ -91,3 +91,4 @@ Submit a PR if you have a suggested add! Repositories on this list must have a v
 | LiteSVM       | [Aursen](https://github.com/Aursen), [Kevin Heavey](https://github.com/kevinheavey)                     | Dev Tooling                           | Yes                  | <https://github.com/LiteSVM/litesvm>                           |
 | Zircon       | [Joey Meere](https://github.com/joeymeere)                 | Education                          | Yes                  | <https://github.com/joeymeere/zircon>      |
 | Dreamcast       | [Joey Meere](https://github.com/joeymeere)                 | Dev Tooling                          | Yes                  | <https://github.com/joeymeere/dreamcast>      |
+| Jinbag       | [shockz09](https://github.com/shockz09)                 | Application                          | Yes                  | <https://github.com/shockz09/Jinbag>      |
