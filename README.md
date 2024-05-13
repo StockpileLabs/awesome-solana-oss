@@ -92,3 +92,4 @@ Submit a PR if you have a suggested add! Repositories on this list must have a v
 | Zircon       | [Joey Meere](https://github.com/joeymeere)                 | Education                          | Yes                  | <https://github.com/joeymeere/zircon>      |
 | Dreamcast       | [Joey Meere](https://github.com/joeymeere)                 | Dev Tooling                          | Yes                  | <https://github.com/joeymeere/dreamcast>      |
 | Jinbag       | [shockz09](https://github.com/shockz09)                 | Application                          | Yes                  | <https://github.com/shockz09/Jinbag>      |
+| BlockMesh Network      | [BlockMesh](https://github.com/block-mesh)                                            | Infrastructure                        | Yes                  | <https://github.com/block-mesh/block-mesh-monorepo>      |
