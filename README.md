@@ -93,3 +93,4 @@ Submit a PR if you have a suggested add! Repositories on this list must have a v
 | Dreamcast              | [Joey Meere](https://github.com/joeymeere)                 | Dev Tooling                          | Yes                  | <https://github.com/joeymeere/dreamcast>      |
 | Jinbag                 | [shockz09](https://github.com/shockz09)                 | Application                          | Yes                  | <https://github.com/shockz09/Jinbag>      |
 | VaultiFi               | [VaultiFi](https://twitter.com/VaultiFi)                      | DeFi                                  | Yes                  | <https://github.com/VaultiFi/VaultiFi-Main>                      |
+| VaultiFi               | [VaultiFi](https://twitter.com/VaultiFi)                      | DeFi                                  | Yes                  | <https://github.com/VaultiFi/single-vault-program>                      |
