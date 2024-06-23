@@ -107,6 +107,7 @@ Projects related to general infrastructure
 | Spiral Safe            | [Spiral Safe](https://twitter.com/spiralsafe)                                       | Yes                  | <a href="https://github.com/Spiral-Safe" target="_blank">View</a>                              |
 | Space Wrapper          | [Space Operator](https://twitter.com/_space_operator)                               | No                   | <a href="https://github.com/space-operator/space-wrapper" target="_blank">View</a>             |
 
+<br>
 
 ## 💸 Payments
 Projects related to payment processing for various use-cases
@@ -118,6 +119,8 @@ Projects related to payment processing for various use-cases
 | Code Android App       | [GetCode](https://twitter.com/getcode)                                              | Yes                  | <a href="https://github.com/code-payments/code-android-app" target="_blank">View</a>       |
 | Stockpile v2           | [Joey Meere](https://twitter.com/joeymeere)                                         | Yes                  | <a href="https://github.com/StockpileLabs/stockpile-v2" target="_blank">View</a>           |
 
+<br>
+
 ## 💾 Client & Validator Tooling
 Projects related to validator and client setup and configuration
 | Name                   | Team / Dev                                                                          | Actively Maintained? | Link                                                             |
@@ -126,6 +129,8 @@ Projects related to validator and client setup and configuration
 | Jito Stakenet          | [Jito Labs](https://twitter.com/jito_sol)                                           | Yes                  | <a href="https://github.com/jito-foundation/stakenet" target="_blank">View</a>             |
 | Yellowstone gRPC       | [Triton One](https://triton.one)                                                    | Yes                  | <a href="https://github.com/rpcpool" target="_blank">View</a>                                  |
 | solv                   | [Epics DAO](https://twitter.com/EpicsDAO2)                                          | Yes                  | <a href="https://github.com/EpicsDAO/solv" target="_blank">View</a>                            |
+
+<br>
 
 ## 🪙 Token & NFT Tooling
 Projects related to SPL, Token 2022, and the various NFT standards
@@ -139,6 +144,8 @@ Projects related to SPL, Token 2022, and the various NFT standards
 | cNFT Spam Filter       | [Solarnius](https://twitter.com/solarnius)                                          | Yes                  | <a href="https://github.com/filtoor/cnft-spam-filter" target="_blank">View</a>             |
 | Underdog SDK           | [Underdog](https://twitter.com/backanunderdog)                                      | No                   | <a href="https://github.com/UnderdogProtocol/js" target="_blank">View</a>                  |
 
+<br>
+
 ## 🏫 Education
 Educational content related to building on Solana
 | Name                   | Team / Dev                                                                          | Actively Maintained? | Link                                                             |
@@ -147,6 +154,8 @@ Educational content related to building on Solana
 | Zircon                 | [Joey Meere](https://github.com/joeymeere)                                          | Yes                  | <a href="https://github.com/joeymeere/zircon" target="_blank">View</a>                     |
 | Pyre                   | [Helius](https://twitter.com/heliuslabs)                                            | Yes                  | <a href="https://github.com/helius-labs/pyre" target="_blank">View</a>                     |
 
+<br>
+
 ## 📊 Data
 Projects related to on-chain data
 | Name                   | Team / Dev                                                                          | Actively Maintained? | Link                                                             |
@@ -154,6 +163,8 @@ Projects related to on-chain data
 | Xray                   | [Helius](https://twitter.com/heliuslabs)                                            | Yes                  | <a href="https://github.com/helius-labs/xray" target="_blank">View</a>                     |
 | Explorer Kit           | [SolanaFM](https://twitter.com/solanafm)                                            | Yes                  | <a href="https://github.com/solana-fm/explorer-kit" target="_blank">View</a>               |
 | SOL CLI Explorer       | [cavemanloverboy](https://github.com/cavemanloverboy)                               | Yes                  | <a href="https://github.com/cavemanloverboy/sol" target="_blank">View</a>                  |
+
+<br>
 
 ## ❓ Miscellaneous
 Projects that lack a specific category listed above
