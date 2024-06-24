@@ -167,11 +167,13 @@ Projects related to on-chain data
 | SOL CLI Explorer       | [cavemanloverboy](https://github.com/cavemanloverboy)                               | Yes                  | <a href="https://github.com/cavemanloverboy/sol" target="_blank">View</a>                  |
 
 <br>
+https://github.com/regolith-labs/ore
 
 ## ❓ Miscellaneous
 Projects that lack a specific category listed above
 | Name                   | Team / Dev                                                                          | Actively Maintained? | Link                                                             |
 | ---------------------- | ----------------------------------------------------------------------------------- | -------------------- | ---------------------------------------------------------------- |
+| Ore v1                 | [Ore Team](https://x.com/OREsupply)                                                 | Yes                  | <a href="https://github.com/regolith-labs/ore" target="_blank">View</a>      |
 | PubKey Link            | [Beeman](https://twitter.com/beeman_nl)                                             | Yes                  | <a href="https://github.com/pubkeyapp/pubkey-link" target="_blank">View</a>  |
 | Jinbag                 | [shockz09](https://github.com/shockz09)                                             | Yes                  | <a href="https://github.com/shockz09/Jinbag" target="_blank">View</a>        |
 | marketplace contracts  | [SoundworkSounds](https://x.com/SoundworkSounds/)                                   | Yes                  | <a href="https://github.com/SoundWorkLabs/marketplace-contracts" target="_blank">View</a> |
