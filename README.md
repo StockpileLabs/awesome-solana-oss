@@ -167,7 +167,6 @@ Projects related to on-chain data
 | SOL CLI Explorer       | [cavemanloverboy](https://github.com/cavemanloverboy)                               | Yes                  | <a href="https://github.com/cavemanloverboy/sol" target="_blank">View</a>                  |
 
 <br>
-https://github.com/regolith-labs/ore
 
 ## ❓ Miscellaneous
 Projects that lack a specific category listed above
