@@ -128,7 +128,7 @@ Projects related to validator and client setup and configuration
 | Jito Stakenet          | [Jito Labs](https://twitter.com/jito_sol)                                           | Yes                  | <a href="https://github.com/jito-foundation/stakenet" target="_blank">View</a>             |
 | Yellowstone gRPC       | [Triton One](https://triton.one)                                                    | Yes                  | <a href="https://github.com/rpcpool" target="_blank">View</a>                                  |
 | solv                   | [Epics DAO](https://twitter.com/EpicsDAO2)                                          | Yes                  | <a href="https://github.com/EpicsDAO/solv" target="_blank">View</a>                            |
-
+| vulacana                | [baraz](https://x.com/haroonmulpk)                                                 | Yes                  | <a href="https://github.com/mubarizkyc/vulacana" target="_blank">View</a>   
 <br>
 
 ## 🪙 Token & NFT Tooling
