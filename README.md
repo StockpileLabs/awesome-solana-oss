@@ -152,6 +152,7 @@ Educational content related to building on Solana
 | Solana Playground      | [Solana Playground](https://github.com/solana-playground)                           | Yes                  | <a href="https://github.com/solana-playground/solana-playground" target="_blank">View</a>  |
 | Zircon                 | [Joey Meere](https://github.com/joeymeere)                                          | Yes                  | <a href="https://github.com/joeymeere/zircon" target="_blank">View</a>                     |
 | Pyre                   | [Helius](https://twitter.com/heliuslabs)                                            | Yes                  | <a href="https://github.com/helius-labs/pyre" target="_blank">View</a>                     |
+| SolWebKit                   | [Metasal](https://twitter.com/metasal_)                                            | Yes                  | <a href="https://github.com/metasal1/solana-web3-v2-demo" target="_blank">View</a>                     |
 
 <br>
 
