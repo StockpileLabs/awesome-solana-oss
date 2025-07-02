@@ -22,7 +22,7 @@ Projects that are worth looking into for new developers
 | Create-Solana-Dapp     | [Solana Developers](https://twitter.com/solana_devs)                                | Yes                  | <a href="https://github.com/solana-developers/create-solana-dapp" target="_blank">View</a> |
 | Solana Project Template| [Metaplex](https://twitter.com/metaplex)                                            | Yes                  | <a href="https://github.com/metaplex-foundation/solana-project-template" target="_blank">View</a>|
 | Solana Playground      | [Solana Playground](https://github.com/solana-playground)                           | Yes                  | <a href="https://github.com/solana-playground/solana-playground" target="_blank">View</a>  |
-| Zircon                 | [Joey Meere](https://github.com/joeymeere)                                          | Yes                  | <a href="https://github.com/joeymeere/zircon" target="_blank">View</a>                     |
+| Zircon                 | [Joey Meere](https://github.com/joeymeere)                                          | No                   | <a href="https://github.com/joeymeere/zircon" target="_blank">View</a>                     |
 | SOLfees.fyi            | [Ronny Haase](https://twitter.com/ronnyhaase)                                       | Yes                  | <a href="https://github.com/ronnyhaase/solfees.fyi" target="_blank">View</a>               |
 
 <br>
@@ -150,8 +150,8 @@ Educational content related to building on Solana
 | Name                   | Team / Dev                                                                          | Actively Maintained? | Link                                                             |
 | ---------------------- | ----------------------------------------------------------------------------------- | -------------------- | ---------------------------------------------------------------- |
 | Solana Playground      | [Solana Playground](https://github.com/solana-playground)                           | Yes                  | <a href="https://github.com/solana-playground/solana-playground" target="_blank">View</a>  |
-| Zircon                 | [Joey Meere](https://github.com/joeymeere)                                          | Yes                  | <a href="https://github.com/joeymeere/zircon" target="_blank">View</a>                     |
-| Pyre                   | [Helius](https://twitter.com/heliuslabs)                                            | Yes                  | <a href="https://github.com/helius-labs/pyre" target="_blank">View</a>                     |
+| Zircon                 | [Joey Meere](https://github.com/joeymeere)                                          | No                   | <a href="https://github.com/joeymeere/zircon" target="_blank">View</a>                     |
+| Pyre                   | [Helius](https://twitter.com/heliuslabs)                                            | No                   | <a href="https://github.com/helius-labs/pyre" target="_blank">View</a>                     |
 | SolWebKit                   | [Metasal](https://twitter.com/metasal_)                                            | Yes                  | <a href="https://github.com/metasal1/solana-web3-v2-demo" target="_blank">View</a>                     |
 
 <br>
