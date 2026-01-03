@@ -107,6 +107,8 @@ Projects related to general infrastructure
 | Jito Relayer           | [Jito Labs](https://twitter.com/jito_sol)                                           | Yes                  | <a href="https://github.com/jito-foundation/jito-relayer" target="_blank">View</a>             |
 | Spiral Safe            | [Spiral Safe](https://twitter.com/spiralsafe)                                       | Yes                  | <a href="https://github.com/Spiral-Safe" target="_blank">View</a>                              |
 | Space Wrapper          | [Space Operator](https://twitter.com/_space_operator)                               | No                   | <a href="https://github.com/space-operator/space-wrapper" target="_blank">View</a>             |
+| AurFlow                | [Petar Stanchev](https://stanchev.dev)                                              | Yes                  | <a href="https://github.com/p-stanchev/AurFlow" target="_blank">View</a>                       |
+
 
 <br>
 
