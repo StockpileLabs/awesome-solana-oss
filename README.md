@@ -165,6 +165,7 @@ Projects related to on-chain data
 | Xray                   | [Helius](https://twitter.com/heliuslabs)                                            | Yes                  | <a href="https://github.com/helius-labs/xray" target="_blank">View</a>                     |
 | Explorer Kit           | [SolanaFM](https://twitter.com/solanafm)                                            | Yes                  | <a href="https://github.com/solana-fm/explorer-kit" target="_blank">View</a>               |
 | SOL CLI Explorer       | [cavemanloverboy](https://github.com/cavemanloverboy)                               | Yes                  | <a href="https://github.com/cavemanloverboy/sol" target="_blank">View</a>                  |
+| Dexscraper             | [Vincent Koc](https://github.com/vincentkoc)                                         | Yes                  | <a href="https://github.com/vincentkoc/dexscraper" target="_blank">View</a>                |
 
 <br>
 
