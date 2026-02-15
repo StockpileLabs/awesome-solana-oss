@@ -90,6 +90,7 @@ Projects related to financial products on Solana
 | Saber                  | [Saber DAO](https://twitter.com/The_Saber_DAO)                                      | Yes                  | <a href="https://github.com/saber-hq/stable-swap" target="_blank">View</a>                  |
 | Step Reward Pool       | [Step Finance](https://twitter.com/StepFinance_)                                    | Yes                  | <a href="https://github.com/step-finance/step-staking" target="_blank">View</a>             |
 | Step Staking           | [Step Finance](https://twitter.com/StepFinance_)                                    | No                   | <a href="https://github.com/step-finance/reward-pool" target="_blank">View</a>              |
+| wRTC Bridge            | [Elyan Labs](https://rustchain.org)                                                 | Yes                  | <a href="https://github.com/Scottcjn/Rustchain" target="_blank">View</a>                    |
 
 <br>
 
