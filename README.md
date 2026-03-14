@@ -119,6 +119,7 @@ Projects related to payment processing for various use-cases
 | Code Program Library   | [GetCode](https://twitter.com/getcode)                                              | Yes                  | <a href="https://github.com/code-payments/code-program-library" target="_blank">View</a>   |
 | Code Android App       | [GetCode](https://twitter.com/getcode)                                              | Yes                  | <a href="https://github.com/code-payments/code-android-app" target="_blank">View</a>       |
 | Stockpile v2           | [Joey Meere](https://twitter.com/joeymeere)                                         | Yes                  | <a href="https://github.com/StockpileLabs/stockpile-v2" target="_blank">View</a>           |
+| x402-proxy             | [Cascade Protocol](https://github.com/cascade-protocol)                             | Yes                  | <a href="https://github.com/cascade-protocol/x402-proxy" target="_blank">View</a>          |
 
 <br>
 
