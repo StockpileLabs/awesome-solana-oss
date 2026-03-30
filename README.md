@@ -91,6 +91,7 @@ Projects related to financial products on Solana
 | Saber                  | An automated market maker for mean-reverting trading pairs | [Saber DAO](https://twitter.com/The_Saber_DAO)                                      | Yes                  | <a href="https://github.com/saber-hq/stable-swap" target="_blank">View</a>                  |
 | Step Reward Pool       | Program for staking and receiving rewards| [Step Finance](https://twitter.com/StepFinance_)                                    | Yes                  | <a href="https://github.com/step-finance/step-staking" target="_blank">View</a>             |
 | Step Staking        |  Program for single token staking and receiving rewards   | [Step Finance](https://twitter.com/StepFinance_)                                    | No                   | <a href="https://github.com/step-finance/reward-pool" target="_blank">View</a>              |
+| Pumpclaw             | Agent skill for pump.fun token trading — buy, sell, launch tokens, wallet management, dry-run simulation, slippage checks, and PumpSwap AMM migrations via pumpfun-cli | [Chainstack](https://twitter.com/ChainstackHQ)                                      | Yes                  | <a href="https://github.com/chainstacklabs/pumpclaw" target="_blank">View</a>               |
 
 <br>
 
