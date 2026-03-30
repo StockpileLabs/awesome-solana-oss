@@ -166,6 +166,7 @@ Projects related to on-chain data
 | Xray                   | A human-readable Solana transaction explorer powered by Helius | [Helius](https://twitter.com/heliuslabs)                                            | Yes                  | <a href="https://github.com/helius-labs/xray" target="_blank">View</a>                     |
 | Explorer Kit           | Public Solana Data Parser | [SolanaFM](https://twitter.com/solanafm)                                            | Yes                  | <a href="https://github.com/solana-fm/explorer-kit" target="_blank">View</a>               |
 | SOL CLI Explorer       | A command line explorer for the Solana Blockchain | [cavemanloverboy](https://github.com/cavemanloverboy)                               | Yes                  | <a href="https://github.com/cavemanloverboy/sol" target="_blank">View</a>                  |
+| DexPaprika             | Free DEX data API with Solana support. Pools, tokens, OHLCV, trades, real-time SSE streaming across 34 chains | [CoinPaprika](https://twitter.com/coinpaprika)                                      | Yes                  | <a href="https://github.com/coinpaprika/dexpaprika-mcp" target="_blank">View</a>           |
 
 <br>
 
