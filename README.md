@@ -120,6 +120,7 @@ Projects related to payment processing for various use-cases
 | Code Program Library   | A collection of on-chain programs targeting the Solana Sealevel runtime | [GetCode](https://twitter.com/getcode)                                              | Yes                  | <a href="https://github.com/code-payments/code-program-library" target="_blank">View</a>   |
 | Code Android App      | A mobile wallet app leveraging self-custodial blockchain technology to deliver an instant, global, and private payments experience | [GetCode](https://twitter.com/getcode)                                              | Yes                  | <a href="https://github.com/code-payments/code-android-app" target="_blank">View</a>       |
 | Stockpile v2           | Decentralized funding engine for the open-internet | [Joey Meere](https://twitter.com/joeymeere)                                         | Yes                  | <a href="https://github.com/StockpileLabs/stockpile-v2" target="_blank">View</a>           |
+| SwarmX (swarms-x402) | Multi-agent AI orchestration with native x402 micropayments on Solana. 49 endpoints, 39 MCP tools, dual LLM, knowledge/RAG | [SolTwizzy](https://github.com/SolTwizzy)                                         | Yes                  | <a href="https://github.com/SolTwizzy/swarms-x402" target="_blank">View</a>         |
 
 <br>
 
