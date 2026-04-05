@@ -92,6 +92,8 @@ Projects related to financial products on Solana
 | Step Reward Pool       | Program for staking and receiving rewards| [Step Finance](https://twitter.com/StepFinance_)                                    | Yes                  | <a href="https://github.com/step-finance/step-staking" target="_blank">View</a>             |
 | Step Staking        |  Program for single token staking and receiving rewards   | [Step Finance](https://twitter.com/StepFinance_)                                    | No                   | <a href="https://github.com/step-finance/reward-pool" target="_blank">View</a>              |
 
+| Settled Resolver        | Open-source resolver daemon for Settled prediction markets — earns 10 bps USDC per market resolved on Solana | [Zirodelta](https://twitter.com/zirodelta)                                          | Yes                  | <a href="https://github.com/Zirodelta/resolver" target="_blank">View</a>                    |
+
 <br>
 
 ## 🛠️ Infrastructure
