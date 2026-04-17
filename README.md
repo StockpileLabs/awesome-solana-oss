@@ -156,6 +156,7 @@ Educational content related to building on Solana
 | Zircon              |  A hub for guided and gamified courses, coding challenges reminiscent of LeetCode, and a sandbox for sharing Solana-related code snippets within minutes   | [Joey Meere](https://github.com/joeymeere)                                          | No                   | <a href="https://github.com/joeymeere/zircon" target="_blank">View</a>                     |
 | Pyre                   | An educational app that teaches users about Helius and Solana development | [Helius](https://twitter.com/heliuslabs)                                            | No                   | <a href="https://github.com/helius-labs/pyre" target="_blank">View</a>                     |
 | SolWebKit                | A place to quickly find that sneaky little snippet from Solana   | [Metasal](https://twitter.com/metasal_)                                            | Yes                  | <a href="https://github.com/metasal1/solana-web3-v2-demo" target="_blank">View</a>                     |
+| cipher-starter       | 150-page MIT playbook for building a Solana signal engine + trading bot solo on $0/mo free-tier infra | [cryptomotifs](https://github.com/cryptomotifs)                                     | Yes                  | <a href="https://github.com/cryptomotifs/cipher-starter">GitHub</a>                           |
 
 <br>
 
