@@ -193,3 +193,8 @@ Projects that lack a specific category listed above
 | Jinbag              | Jinbag is a digital platform that modernizes the traditional practice of giving red envelopes, a cultural symbol of good luck and prosperity in China and other Asian countries   | [shockz09](https://github.com/shockz09)                                             | Yes                  | <a href="https://github.com/shockz09/Jinbag" target="_blank">View</a>        |
 | marketplace contracts  | Solana marketplace contracts for listing and bidding on core assets on Soundwork| [SoundworkSounds](https://x.com/SoundworkSounds/)                                   | Yes                  | <a href="https://github.com/SoundWorkLabs/marketplace-contracts" target="_blank">View</a> |
 | Solana Auth         | CrossMint's solana-auth provides developers with the tools to configure their applications to allow users to authenticate with their Solana wallets   | [Crossmint](https://twitter.com/crossmint)                                          | No                   | <a href="https://github.com/Crossmint/solana-auth" target="_blank">View</a>  |
+
+
+## WhiteOwl
+
+- [WhiteOwl](https://github.com/whiteowl-engine/WhiteOwl) â€” Open-source local-first AI trading dashboard for Solana memecoins with multi-agent system and browser extension.
