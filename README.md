@@ -91,6 +91,7 @@ Projects related to financial products on Solana
 | Saber                  | An automated market maker for mean-reverting trading pairs | [Saber DAO](https://twitter.com/The_Saber_DAO)                                      | Yes                  | <a href="https://github.com/saber-hq/stable-swap" target="_blank">View</a>                  |
 | Step Reward Pool       | Program for staking and receiving rewards| [Step Finance](https://twitter.com/StepFinance_)                                    | Yes                  | <a href="https://github.com/step-finance/step-staking" target="_blank">View</a>             |
 | Step Staking        |  Program for single token staking and receiving rewards   | [Step Finance](https://twitter.com/StepFinance_)                                    | No                   | <a href="https://github.com/step-finance/reward-pool" target="_blank">View</a>              |
+| Trade Router MCP       | Non-custodial Solana swap & limit-order MCP server for AI agents. 21 tools across Raydium, PumpSwap, Orca, Meteora. Jito MEV-protected. | [Trade Router](https://twitter.com/trade_router)                                    | Yes                  | <a href="https://github.com/TradeRouter/trade-router-mcp" target="_blank">View</a>             |
 
 <br>
 
