@@ -108,6 +108,7 @@ Projects related to general infrastructure
 | Jito Relayer           | Jito Foundation's Transaction Relayer | [Jito Labs](https://twitter.com/jito_sol)                                           | Yes                  | <a href="https://github.com/jito-foundation/jito-relayer" target="_blank">View</a>             |
 | Spiral Safe       | Seamless Multichain API Key Management with Nitro Enclave Security     | [Spiral Safe](https://twitter.com/spiralsafe)                                       | Yes                  | <a href="https://github.com/Spiral-Safe" target="_blank">View</a>                              |
 | Space Wrapper         | Secret wrapper program to use from space | [Space Operator](https://twitter.com/_space_operator)                               | No                   | <a href="https://github.com/space-operator/space-wrapper" target="_blank">View</a>             |
+| Paraloom              | Open privacy Layer 2 for Solana — shielded payments via Groth16 zk-SNARKs over BLS12-381, BFT cohort verification on commodity hardware | [Paraloom Labs](https://x.com/paraloomlabs)                                         | Yes                  | <a href="https://github.com/paraloom-labs/paraloom-core" target="_blank">View</a>              |
 
 <br>
 
