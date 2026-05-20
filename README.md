@@ -145,6 +145,7 @@ Projects related to SPL, Token 2022, and the various NFT standards
 | McBurnJS              | A Node.js CLI to burn even the most stubborn of cNFTs | [McDegensDAO](https://twitter.com/McDegensDAO)                                      | Yes                  | <a href="https://github.com/McDegens-DAO/mcburn-js/" target="_blank">View</a>              |
 | cNFT Spam Filter     | An open-source, lightweight, and portable spam classifier for cNFTs on Solana  | [Solarnius](https://twitter.com/solarnius)                                          | Yes                  | <a href="https://github.com/filtoor/cnft-spam-filter" target="_blank">View</a>             |
 | Underdog SDK          | Mint, Manage, and Distribute Core NFTs , Blinks, or SPL Tokens with No-code on Solana | [Underdog](https://twitter.com/backanunderdog)                                      | No                   | <a href="https://github.com/UnderdogProtocol/js" target="_blank">View</a>                  |
+| wRTC (Wrapped RustChain) | Wrapped RustChain Token bridging Proof-of-Antiquity mining rewards to Solana | [Elyan Labs](https://github.com/Scottcjn)                                           | Yes                  | <a href="https://github.com/Scottcjn/Rustchain" target="_blank">View</a>                   |
 
 <br>
 
