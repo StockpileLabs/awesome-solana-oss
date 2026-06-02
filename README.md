@@ -67,6 +67,7 @@ Projects that will may help in your travels as a Solana developer
 | Splogger            | Solana logging framework   | [Nautilus Project](https://github.com/nautilus-project)                             | No                   | <a href="https://github.com/nautilus-project/splogger" target="_blank">View</a>            |
 | Waverider         | Geyser plugin that streams Solana account changes to PostgREST     | [Nautilus Project](https://github.com/nautilus-project)                             | No                   | <a href="https://github.com/nautilus-project/waverider" target="_blank">View</a>           |
 | Anchor Eventline  | Standardized Anchor events + TypeScript SDK for reliable off-chain indexing.     | Fabrizio Pfannl                                                                     | Yes                  | <a href="https://github.com/fabriziopfannl/anchor-eventline" target="_blank">View</a> |
+| Sunscreen         | Rust CLI for scaffolding Anchor 1.0 / Pinocchio workspaces with marker-based incremental scaffolders, recipes (CRUD, SPL Token, Metaplex NFT), and a `chain serve` dev loop (Surfpool/test-validator + Codama + frontend hot-reload). Inspired by Ignite CLI. | [Pantani](https://github.com/Pantani) | Yes | <a href="https://github.com/Pantani/sunscreen" target="_blank">View</a> |
 
 <br>
 
