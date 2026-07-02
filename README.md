@@ -156,6 +156,7 @@ Educational content related to building on Solana
 | Zircon              |  A hub for guided and gamified courses, coding challenges reminiscent of LeetCode, and a sandbox for sharing Solana-related code snippets within minutes   | [Joey Meere](https://github.com/joeymeere)                                          | No                   | <a href="https://github.com/joeymeere/zircon" target="_blank">View</a>                     |
 | Pyre                   | An educational app that teaches users about Helius and Solana development | [Helius](https://twitter.com/heliuslabs)                                            | No                   | <a href="https://github.com/helius-labs/pyre" target="_blank">View</a>                     |
 | SolWebKit                | A place to quickly find that sneaky little snippet from Solana   | [Metasal](https://twitter.com/metasal_)                                            | Yes                  | <a href="https://github.com/metasal1/solana-web3-v2-demo" target="_blank">View</a>                     |
+| Solana History Map       | An interactive, source-cited atlas of Solana history — 22 landmarks with 62 references and 13 playable simulations that teach core mechanisms (Proof of History, bridge security, oracle manipulation, congestion economics) through the real events that defined them | [wxlong2000](https://github.com/wxlong2000)                                         | Yes                  | <a href="https://github.com/wxlong2000/solana-history-map" target="_blank">View</a>                     |
 
 <br>
 
