@@ -166,6 +166,7 @@ Projects related to on-chain data
 | Xray                   | A human-readable Solana transaction explorer powered by Helius | [Helius](https://twitter.com/heliuslabs)                                            | Yes                  | <a href="https://github.com/helius-labs/xray" target="_blank">View</a>                     |
 | Explorer Kit           | Public Solana Data Parser | [SolanaFM](https://twitter.com/solanafm)                                            | Yes                  | <a href="https://github.com/solana-fm/explorer-kit" target="_blank">View</a>               |
 | SOL CLI Explorer       | A command line explorer for the Solana Blockchain | [cavemanloverboy](https://github.com/cavemanloverboy)                               | Yes                  | <a href="https://github.com/cavemanloverboy/sol" target="_blank">View</a>                  |
+| OpenChainBench         | Live open-source benchmarks for Solana infra: tx-landing services, RPC latency, token metadata coverage | [OpenChainBench](https://x.com/OpenChainBench)                                      | Yes                  | <a href="https://github.com/ChainBench/OpenChainBench" target="_blank">View</a>            |
 
 <br>
 
