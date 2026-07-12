@@ -120,6 +120,7 @@ Projects related to payment processing for various use-cases
 | Code Program Library   | A collection of on-chain programs targeting the Solana Sealevel runtime | [GetCode](https://twitter.com/getcode)                                              | Yes                  | <a href="https://github.com/code-payments/code-program-library" target="_blank">View</a>   |
 | Code Android App      | A mobile wallet app leveraging self-custodial blockchain technology to deliver an instant, global, and private payments experience | [GetCode](https://twitter.com/getcode)                                              | Yes                  | <a href="https://github.com/code-payments/code-android-app" target="_blank">View</a>       |
 | Stockpile v2           | Decentralized funding engine for the open-internet | [Joey Meere](https://twitter.com/joeymeere)                                         | Yes                  | <a href="https://github.com/StockpileLabs/stockpile-v2" target="_blank">View</a>           |
+| AgentFund              | Fundraising infrastructure for AI agents: on-chain identities, x402-native donations (payment is the auth), milestone-gated escrow, and reputation | [AgentFund](https://github.com/agentIgris)                                          | Yes                  | <a href="https://github.com/agentIgris/agentfund" target="_blank">View</a>                 |
 
 <br>
 
