@@ -120,7 +120,7 @@ Projects related to payment processing for various use-cases
 | Code Program Library   | A collection of on-chain programs targeting the Solana Sealevel runtime | [GetCode](https://twitter.com/getcode)                                              | Yes                  | <a href="https://github.com/code-payments/code-program-library" target="_blank">View</a>   |
 | Code Android App      | A mobile wallet app leveraging self-custodial blockchain technology to deliver an instant, global, and private payments experience | [GetCode](https://twitter.com/getcode)                                              | Yes                  | <a href="https://github.com/code-payments/code-android-app" target="_blank">View</a>       |
 | Stockpile v2           | Decentralized funding engine for the open-internet | [Joey Meere](https://twitter.com/joeymeere)                                         | Yes                  | <a href="https://github.com/StockpileLabs/stockpile-v2" target="_blank">View</a>           |
-| TWZRD Agent Intel      | On-chain trust MCP server for AI agents on Solana — `preflight_check`, `score_agent`, `get_trust_receipt` (x402 USDC micropayment) | [TWZRD](https://intel.twzrd.xyz) |
+| TWZRD Agent Intel      | On-chain trust MCP server for AI agents on Solana — `get_readiness_card_tool`, `score_wallet_for_intel`, `GET /v1/intel/trust/{pubkey}` (x402 USDC micropayment) | [TWZRD](https://intel.twzrd.xyz) |
 
 <br>
 
