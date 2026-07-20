@@ -120,6 +120,7 @@ Projects related to payment processing for various use-cases
 | Code Program Library   | A collection of on-chain programs targeting the Solana Sealevel runtime | [GetCode](https://twitter.com/getcode)                                              | Yes                  | <a href="https://github.com/code-payments/code-program-library" target="_blank">View</a>   |
 | Code Android App      | A mobile wallet app leveraging self-custodial blockchain technology to deliver an instant, global, and private payments experience | [GetCode](https://twitter.com/getcode)                                              | Yes                  | <a href="https://github.com/code-payments/code-android-app" target="_blank">View</a>       |
 | Stockpile v2           | Decentralized funding engine for the open-internet | [Joey Meere](https://twitter.com/joeymeere)                                         | Yes                  | <a href="https://github.com/StockpileLabs/stockpile-v2" target="_blank">View</a>           |
+| tidex6                 | Private payments on Solana: a Groth16 shielded pool hides sender and receiver, Token-2022 confidential transfers hide the amount, and proving runs in the browser | [koshak01](https://github.com/koshak01)                                             | Yes                  | <a href="https://github.com/koshak01/tidex6" target="_blank">View</a>                      |
 
 <br>
 
