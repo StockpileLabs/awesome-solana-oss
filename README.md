@@ -24,6 +24,7 @@ Projects that are worth looking into for new developers
 | Solana Playground    | Online IDE that allows you to quickly develop, deploy and test [Solana](https://docs.solana.com/introduction) programs  | [Solana Playground](https://github.com/solana-playground)                           | Yes                  | <a href="https://github.com/solana-playground/solana-playground" target="_blank">View</a>  |
 | Zircon             | Hub for guided and gamified courses, coding challenges reminiscent of LeetCode, and a sandbox for sharing Solana-related code snippets within minutes.   | [Joey Meere](https://github.com/joeymeere)                                          | No                   | <a href="https://github.com/joeymeere/zircon" target="_blank">View</a>                     |
 | SOLfees.fyi     | Check how much you've spent on Solana transaction fees across all your wallets & compare with other blockchains      | [Ronny Haase](https://twitter.com/ronnyhaase)                                       | Yes                  | <a href="https://github.com/ronnyhaase/solfees.fyi" target="_blank">View</a>               |
+| IntentProof     | Local-first policy firewall and tamper-evident receipt ledger for AI-agent-proposed Solana transfers      | [FeeeeelixWong](https://github.com/FeeeeelixWong)                                       | Yes                  | <a href="https://github.com/FeeeeelixWong/intent-proof" target="_blank">View</a>               |
 
 <br>
 
