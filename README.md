@@ -67,6 +67,8 @@ Projects that will may help in your travels as a Solana developer
 | Splogger            | Solana logging framework   | [Nautilus Project](https://github.com/nautilus-project)                             | No                   | <a href="https://github.com/nautilus-project/splogger" target="_blank">View</a>            |
 | Waverider         | Geyser plugin that streams Solana account changes to PostgREST     | [Nautilus Project](https://github.com/nautilus-project)                             | No                   | <a href="https://github.com/nautilus-project/waverider" target="_blank">View</a>           |
 | Anchor Eventline  | Standardized Anchor events + TypeScript SDK for reliable off-chain indexing.     | Fabrizio Pfannl                                                                     | Yes                  | <a href="https://github.com/fabriziopfannl/anchor-eventline" target="_blank">View</a> |
+| txplain           | Paste a transaction signature, get a plain-English breakdown: status, fee, every balance change, which programs it touched, and why it failed. Static page, public RPC only.     | [Alfred Labs](https://x.com/Alfred_labs)                                            | Yes                  | <a href="https://github.com/arijon13/txplain" target="_blank">View</a> |
+| mintcheck         | Paste an SPL token mint and see the rug-risk flags: whether mint authority can print more supply, and whether freeze authority can freeze your tokens. No wallet, no signup.     | [Alfred Labs](https://x.com/Alfred_labs)                                            | Yes                  | <a href="https://github.com/arijon13/mintcheck" target="_blank">View</a> |
 
 <br>
 
