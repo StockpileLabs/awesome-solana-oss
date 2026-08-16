@@ -166,6 +166,7 @@ Projects related to on-chain data
 | Xray                   | A human-readable Solana transaction explorer powered by Helius | [Helius](https://twitter.com/heliuslabs)                                            | Yes                  | <a href="https://github.com/helius-labs/xray" target="_blank">View</a>                     |
 | Explorer Kit           | Public Solana Data Parser | [SolanaFM](https://twitter.com/solanafm)                                            | Yes                  | <a href="https://github.com/solana-fm/explorer-kit" target="_blank">View</a>               |
 | SOL CLI Explorer       | A command line explorer for the Solana Blockchain | [cavemanloverboy](https://github.com/cavemanloverboy)                               | Yes                  | <a href="https://github.com/cavemanloverboy/sol" target="_blank">View</a>                  |
+| Solana Narrative Radar | Autonomous narrative detection & idea generation for the Solana ecosystem - fuses DefiLlama TVL, CoinGecko, GitHub and nostr signals into scored narratives and build ideas, refreshed every 12h (MIT) | [economicagent](https://github.com/economic-agent) | Yes | <a href="https://github.com/economic-agent/solana-narrative-radar" target="_blank">View</a> |
 
 <br>
 
