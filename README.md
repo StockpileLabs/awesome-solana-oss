@@ -148,6 +148,7 @@ Program auditing, fuzzing, static analysis, and more.
 | [Trident](https://github.com/Ackee-Blockchain/trident) | Rust-based framework for Solana program fuzzing |
 | [qedsvm](https://github.com/QEDGen/qedsvm) | Execute and verify sBPF programs with a Lean 4 reference model |
 | [sol-azy](https://github.com/FuzzingLabs/sol-azy) | Tooling for static analysis and reverse engineering sBPF programs |
+| [solana-postmortem-scans](https://github.com/AIOilShield/solana-postmortem-scans) | Automated static-analysis runs on the pre-exploit code of Wormhole and Cashio, with the raw output and a manual review of every finding |
 
 ## Governance
 
