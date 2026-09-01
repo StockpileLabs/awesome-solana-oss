@@ -68,6 +68,7 @@ RPCs, indexers, geyser plugins, and other deployable infrastructure pieces.
 | [Yellowstone gRPC](https://github.com/rpcpool) | Triton's Dragon's Mouth Yellowstone gRPC service for high-performance Solana streaming |
 | [Metis Binary](https://github.com/jup-ag/metis-binary) | Self-hostable Jupiter Metis Swap API |
 | [TxTx](https://github.com/solana-foundation/txtx) | Terraform for web3 |
+| [OpenChainBench](https://openchainbench.com) | Live RPC latency, reliability, and archive-depth benchmarks for Solana and EVM endpoints. Open-source harnesses, CC BY 4.0 data. |
 
 ## DeFi
 
