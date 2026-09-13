@@ -163,3 +163,4 @@ Projects that don't cleanly fit an above category.
 | Name | Description |
 | --- | --- |
 | [Codama](https://github.com/codama-idl/codama) | Generate clients, CLIs, documentation and more from your Solana programs |
+| [million](https://github.com/Kelows/million) | Self-hosted whale tracker and copy-trading deck: wallet analysis, token safety checks, paper and live trading via Jupiter |
