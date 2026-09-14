@@ -163,3 +163,4 @@ Projects that don't cleanly fit an above category.
 | Name | Description |
 | --- | --- |
 | [Codama](https://github.com/codama-idl/codama) | Generate clients, CLIs, documentation and more from your Solana programs |
+| [Solgrok](https://github.com/LMajster/sgrok) | Autonomous Solana creator-ops agent ($SGROK on Bags) for promo, listings, and fee sweeps |
