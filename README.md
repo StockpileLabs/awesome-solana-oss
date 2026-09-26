@@ -109,6 +109,7 @@ Tooling for parsing, organizing, viewing, and analyzing Solana data.
 | [Xray](https://github.com/helius-labs/xray) | A human-readable Solana transaction explorer powered by Helius |
 | [Carbon](https://github.com/sevenlabs-hq/carbon) | Indexing framework |
 | [Yellowstone Vixen](https://github.com/rpcpool/yellowstone-vixen) | Program parsing toolkit |
+| [MadeOnSol MCP](https://github.com/MadeOnSol/mcp-server-madeonsol) | MCP server exposing real-time Solana wallet, token, KOL, deployer and DEX intelligence to AI agents and developer tooling |
 
 ## Wallets
 
