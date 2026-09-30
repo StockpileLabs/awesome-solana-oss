@@ -163,3 +163,4 @@ Projects that don't cleanly fit an above category.
 | Name | Description |
 | --- | --- |
 | [Codama](https://github.com/codama-idl/codama) | Generate clients, CLIs, documentation and more from your Solana programs |
+| [oracle3](https://github.com/YichengYang-Ethan/oracle3-prediction-market-agent) | Prediction-market trading engine that executes on Solana via DFlow with Jito bundles and on-chain Memo trade logs (also Kalshi and Polymarket) |
