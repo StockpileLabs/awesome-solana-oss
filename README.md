@@ -109,6 +109,7 @@ Tooling for parsing, organizing, viewing, and analyzing Solana data.
 | [Xray](https://github.com/helius-labs/xray) | A human-readable Solana transaction explorer powered by Helius |
 | [Carbon](https://github.com/sevenlabs-hq/carbon) | Indexing framework |
 | [Yellowstone Vixen](https://github.com/rpcpool/yellowstone-vixen) | Program parsing toolkit |
+| [sol-feed-examples](https://github.com/lunarshadowlabs/sol-feed-examples) | Python, TypeScript and Rust clients for a decoded Solana DEX event stream (12 venues, one JSON schema) |
 
 ## Wallets
 
