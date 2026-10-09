@@ -84,6 +84,7 @@ Decentralized finance protocols.
 | [Meteora DBC](https://github.com/MeteoraAg/dynamic-bonding-curve) | Dynamic Bonding Curve Program |
 | [Manifest](https://github.com/Bonasa-Tech/manifest) | Spot CLOB |
 | [MetaDAO](https://github.com/metaDAOproject/programs) | Programs for unruggable capital formation and market-driven governance |
+| [costgate](https://github.com/staxs78/solana-costgate) | Stdlib-only after-cost profitability gate for atomic Solana arbitrage: models base+priority fees charged on failed txs, land probability, Jito tip, flashloan fee, rent, slippage and AMM price impact |
 
 ## On-Chain Primitives
 
