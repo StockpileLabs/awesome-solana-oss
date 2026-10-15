@@ -84,6 +84,7 @@ Decentralized finance protocols.
 | [Meteora DBC](https://github.com/MeteoraAg/dynamic-bonding-curve) | Dynamic Bonding Curve Program |
 | [Manifest](https://github.com/Bonasa-Tech/manifest) | Spot CLOB |
 | [MetaDAO](https://github.com/metaDAOproject/programs) | Programs for unruggable capital formation and market-driven governance |
+| [CurveRadar](https://curveradar.com/) | Solana token screener, launchpad and liquidity locker. |
 
 ## On-Chain Primitives
 
