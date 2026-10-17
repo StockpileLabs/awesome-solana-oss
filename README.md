@@ -84,6 +84,7 @@ Decentralized finance protocols.
 | [Meteora DBC](https://github.com/MeteoraAg/dynamic-bonding-curve) | Dynamic Bonding Curve Program |
 | [Manifest](https://github.com/Bonasa-Tech/manifest) | Spot CLOB |
 | [MetaDAO](https://github.com/metaDAOproject/programs) | Programs for unruggable capital formation and market-driven governance |
+| [AlbuSOL](https://github.com/AlbuStudio/albusol) | Terminal launch desk: SPL token with metadata and authority revocation, OpenBook market, Raydium AMM v4 and CPMM pools, LP burn, Metaplex Core batch minting, with an encrypted local wallet |
 
 ## On-Chain Primitives
 
