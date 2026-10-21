@@ -109,6 +109,7 @@ Tooling for parsing, organizing, viewing, and analyzing Solana data.
 | [Xray](https://github.com/helius-labs/xray) | A human-readable Solana transaction explorer powered by Helius |
 | [Carbon](https://github.com/sevenlabs-hq/carbon) | Indexing framework |
 | [Yellowstone Vixen](https://github.com/rpcpool/yellowstone-vixen) | Program parsing toolkit |
+| [pumpswap-fee-decoder](https://github.com/hrekokovgmmek-lab/pumpswap-fee-decoder) | Decodes PumpSwap trades to the lamport: LP/protocol/creator fees from program events, fees held in the pool, priority fees, Jito tips and bot fees |
 
 ## Wallets
 
