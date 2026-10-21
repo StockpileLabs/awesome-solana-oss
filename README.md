@@ -129,6 +129,7 @@ Tooling for building Solana integrations into web-based applications.
 | [Web3.js](https://github.com/blueshift-gg/solana-web3.js) | Updated version of Web3.js built on Kit |
 | [Gill](https://github.com/gillsdk/gill) | Client library for interacting with Solana |
 | [Wallet Adapter](https://github.com/anza-xyz/wallet-adapter) | TypeScript wallet adapters and components for Solana applications |
+| [solana-usdc-verifier](https://github.com/ammadkapadiaa/solana-usdc-verifier) | Verify USDC and Solana Pay payments to a wallet from finalized on-chain data |
 
 ## Cryptography
 
