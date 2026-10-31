@@ -109,6 +109,7 @@ Tooling for parsing, organizing, viewing, and analyzing Solana data.
 | [Xray](https://github.com/helius-labs/xray) | A human-readable Solana transaction explorer powered by Helius |
 | [Carbon](https://github.com/sevenlabs-hq/carbon) | Indexing framework |
 | [Yellowstone Vixen](https://github.com/rpcpool/yellowstone-vixen) | Program parsing toolkit |
+| [GL1TCH](https://github.com/gl1tchbased-pixel/gl1tch-coin) | Token safety scanner for Solana: authorities, LP lock, insiders and bot-volume checks, with a free keyless API |
 
 ## Wallets
 
