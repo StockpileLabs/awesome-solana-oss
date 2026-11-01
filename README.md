@@ -109,6 +109,7 @@ Tooling for parsing, organizing, viewing, and analyzing Solana data.
 | [Xray](https://github.com/helius-labs/xray) | A human-readable Solana transaction explorer powered by Helius |
 | [Carbon](https://github.com/sevenlabs-hq/carbon) | Indexing framework |
 | [Yellowstone Vixen](https://github.com/rpcpool/yellowstone-vixen) | Program parsing toolkit |
+| [reeflog](https://github.com/auroraxo/reeflog) | Durable local event mailbox — cursor-addressed journal with gap-fill, reorg sealing, and webhook fan-out |
 
 ## Wallets
 
