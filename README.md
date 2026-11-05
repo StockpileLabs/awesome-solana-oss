@@ -163,3 +163,4 @@ Projects that don't cleanly fit an above category.
 | Name | Description |
 | --- | --- |
 | [Codama](https://github.com/codama-idl/codama) | Generate clients, CLIs, documentation and more from your Solana programs |
+| [solana-multisender](https://github.com/solstackxyz/solana-multisender) | CSV-driven CLI that sends SOL, SPL or Token-2022 tokens to many wallets, with dry runs and resumable sends |
