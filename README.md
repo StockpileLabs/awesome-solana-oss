@@ -109,7 +109,7 @@ Tooling for parsing, organizing, viewing, and analyzing Solana data.
 | [Xray](https://github.com/helius-labs/xray) | A human-readable Solana transaction explorer powered by Helius |
 | [Carbon](https://github.com/sevenlabs-hq/carbon) | Indexing framework |
 | [Yellowstone Vixen](https://github.com/rpcpool/yellowstone-vixen) | Program parsing toolkit |
-| [Meme Intelligence On-Chain](https://github.com/arbincept/meme-intelligence-onchain) | Experimental research toolkit for exploring Solana wallets, liquidity, market data, early buyer cohorts, and wallet funding relationships |
+| [Meme Intelligence](https://github.com/arbincept/meme-intelligence-onchain) | Experimental research toolkit for exploring Solana wallets, liquidity, market data, early buyer cohorts, and funding relationships |
 
 ## Wallets
 
