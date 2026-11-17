@@ -40,6 +40,7 @@ Current and upcoming clients for Solana.
 | [Sig](https://github.com/Syndica/sig) | Validator implementation in Zig |
 | [Salsa](https://github.com/harmonic/salsa) | Harmonic's Agave-forked validator client |
 | [Samba](https://github.com/harmonic/samba) | Harmonic's Firedancer-forked validator client |
+| [Machine](https://github.com/yourmememachine/mememachine) | Agave-forked validator client running an independent Solana-derived chain, with LaunchGuard and a Solana bridge (localnet stage) |
 
 ## SVM Tooling
 
