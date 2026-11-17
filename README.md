@@ -148,6 +148,7 @@ Program auditing, fuzzing, static analysis, and more.
 | [Trident](https://github.com/Ackee-Blockchain/trident) | Rust-based framework for Solana program fuzzing |
 | [qedsvm](https://github.com/QEDGen/qedsvm) | Execute and verify sBPF programs with a Lean 4 reference model |
 | [sol-azy](https://github.com/FuzzingLabs/sol-azy) | Tooling for static analysis and reverse engineering sBPF programs |
+| [Rent and Rug Shield](https://github.com/sonnyman2014/solana-rent-rug-shield-mcp) | Solana 10 layer token safety auditor, Layer 9 Inner CPI transaction drainer simulator, and read only SPL and Token 2022 unclaimed ATA rent SOL scanner with TypeScript and Python SDKs and MCP server |
 
 ## Governance
 
