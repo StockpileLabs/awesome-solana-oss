@@ -118,6 +118,7 @@ Wallets for desktop and major browsers.
 | --- | --- |
 | [Samui](https://github.com/samui-build/samui-wallet) | Wallet and toolbox for Solana builders |
 | [Salmon](https://github.com/Salmon-HQ/salmon-wallet-frontend) | Community-owned wallet built for Solana |
+| [solana-launch-forensics](https://github.com/tdkrHuang/solana-launch-forensics) | Read-only, dependency-free CLI for tracing Solana token launches, creator-fee sweeps and repeated payouts |
 
 ## Web Tooling
 
