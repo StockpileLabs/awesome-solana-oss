@@ -109,6 +109,9 @@ Tooling for parsing, organizing, viewing, and analyzing Solana data.
 | [Xray](https://github.com/helius-labs/xray) | A human-readable Solana transaction explorer powered by Helius |
 | [Carbon](https://github.com/sevenlabs-hq/carbon) | Indexing framework |
 | [Yellowstone Vixen](https://github.com/rpcpool/yellowstone-vixen) | Program parsing toolkit |
+| [Solana Bubble Map](https://github.com/blixtrade/solana-bubble-map) | Holder bubble map for any SPL token, grouping wallets that share a funder |
+| [Solana Rug Checker](https://github.com/blixtrade/solana-rug-checker) | Token safety scan: authorities, Token-2022 traps, concentration and liquidity, scored 0-100 |
+| [Solana Wallet Tracker](https://github.com/blixtrade/solana-wallet-tracker) | Follows wallets and decodes every SPL buy and sell from their transactions |
 
 ## Wallets
 
