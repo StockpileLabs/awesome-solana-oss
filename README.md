@@ -58,6 +58,7 @@ Tooling for building, testing, and benchmarking Solana programs.
 | [sbpf-linker](https://github.com/blueshift-gg/sbpf-linker) | An upstream BPF linker for SBPF V0 programs |
 | [Seashell](https://github.com/soundsonacid/seashell) | Reproducible SVM testing with mainnet state |
 | [solana-verifiable-build](https://github.com/solana-foundation/solana-verifiable-build) | CLI tool for deterministically building and verifying executable against on-chain programs or buffer accounts |
+| [Blubber](https://github.com/moshthepitt/blubber) | Growable lists, strings and maps inside a Solana account, edited in place |
 
 ## Infrastructure
 
