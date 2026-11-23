@@ -129,6 +129,7 @@ Tooling for building Solana integrations into web-based applications.
 | [Web3.js](https://github.com/blueshift-gg/solana-web3.js) | Updated version of Web3.js built on Kit |
 | [Gill](https://github.com/gillsdk/gill) | Client library for interacting with Solana |
 | [Wallet Adapter](https://github.com/anza-xyz/wallet-adapter) | TypeScript wallet adapters and components for Solana applications |
+| [carbium-js](https://github.com/carbium-sh/carbium-js) | TypeScript SDK, command line tool and MCP server for Carbium's Solana RPC, DAS, WebSocket and Yellowstone gRPC stream, with swaps built as one unsigned transaction for your own wallet |
 
 ## Cryptography
 
