@@ -138,6 +138,7 @@ Cryptographic primitives and verification libraries.
 | --- | --- |
 | [brine-ed25519](https://github.com/zfedoran/brine-ed25519) | Ed25519 signature verification for Solana programs |
 | [solana-winternitz](https://github.com/deanmlittle/solana-winternitz) | Solana-centric implementation of the Winternitz One-Time Signature (WOTS) scheme |
+| [solana-pump-keypair-verifier](https://github.com/a5768549/solana-pump-keypair-verifier) | Offline Python CLI for Ed25519 keypair verification, Phantom Base58 to solana-keygen JSON conversion, and Base58 vanity pattern validation |
 
 ## Security & Reverse Engineering
 
