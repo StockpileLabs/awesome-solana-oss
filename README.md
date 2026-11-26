@@ -109,6 +109,7 @@ Tooling for parsing, organizing, viewing, and analyzing Solana data.
 | [Xray](https://github.com/helius-labs/xray) | A human-readable Solana transaction explorer powered by Helius |
 | [Carbon](https://github.com/sevenlabs-hq/carbon) | Indexing framework |
 | [Yellowstone Vixen](https://github.com/rpcpool/yellowstone-vixen) | Program parsing toolkit |
+| [wallet-watch](https://github.com/johnny5builds/wallet-watch) | Watches addresses for balance changes and fires a deduped webhook |
 
 ## Wallets
 
@@ -148,6 +149,7 @@ Program auditing, fuzzing, static analysis, and more.
 | [Trident](https://github.com/Ackee-Blockchain/trident) | Rust-based framework for Solana program fuzzing |
 | [qedsvm](https://github.com/QEDGen/qedsvm) | Execute and verify sBPF programs with a Lean 4 reference model |
 | [sol-azy](https://github.com/FuzzingLabs/sol-azy) | Tooling for static analysis and reverse engineering sBPF programs |
+| [token-safety-check](https://github.com/johnny5builds/token-safety-check) | Plain-English SOL and EVM token scam check via free public APIs |
 
 ## Governance
 
